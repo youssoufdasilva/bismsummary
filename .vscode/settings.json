@@ -1,0 +1,9 @@
+{
+  "emmet.excludeLanguages": ["markdown"],
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact"
+  },
+  "indentRainbow.indentSetter": {},
+  "editor.tabSize": 2,
+  "editor.fontSize": 14
+}

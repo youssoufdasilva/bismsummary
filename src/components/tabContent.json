@@ -1,0 +1,42 @@
+{
+  "CST4310": [
+    {
+      "q": "Question1-1",
+      "a": "Answer1-1"
+    },
+    {
+      "q": "Question1-2",
+      "a": "Answer1-2"
+    }
+  ],
+  "CST4320": [
+    {
+      "q": "Question2-1",
+      "a": "Answer2-1"
+    },
+    {
+      "q": "Question2-2",
+      "a": "Answer2-2"
+    }
+  ],
+  "CST4330": [
+    {
+      "q": "Question3-1",
+      "a": "Answer3-1"
+    },
+    {
+      "q": "Question3-2",
+      "a": "Answer3-2"
+    }
+  ],
+  "CST4350": [
+    {
+      "q": "Question4-1",
+      "a": "Answer4-1"
+    },
+    {
+      "q": "Question4-2",
+      "a": "Answer4-2"
+    }
+  ]
+}
